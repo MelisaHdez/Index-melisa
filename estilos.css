@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+}
+.body{
+    background-image:url("Fondo.jpeg") ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+.tituloPrincipal{
+    font-family:cursive;
+}
+
+.Cuadroprincipal{
+    border: 5px solid slategray ;
+    width: 50%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+
+}
